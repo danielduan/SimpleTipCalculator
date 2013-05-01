@@ -1,0 +1,52 @@
+.vanilla
+{
+background-color: #eceae0;
+}
+
+#separatorbar
+{
+background-color: #DC3D24;
+width: 100%;
+height: 5px;
+}
+
+#banner
+{
+	background: #1d1d1d;
+}
+
+form
+{
+	background-color: #eceae0;
+	margin: 0;
+}
+
+h2
+{
+	#font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: #DC3D24;
+	font-style: italic;
+}
+
+fieldset legend
+{
+	color: black;
+	background-color: #eceae0;
+}
+
+fieldset
+{
+	border: none;
+	background-color: #eceae0;
+}
+
+label
+{
+	color: #000000;
+}
+
+body
+{
+background: #eceae0;
+color: #eceae0;
+}
